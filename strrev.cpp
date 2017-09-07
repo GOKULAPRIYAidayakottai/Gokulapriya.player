@@ -5,7 +5,7 @@ void main()
 int i,j;
 char str[100],temp;
 i=0;
-printf("\nEnter the string :");
+cout<<"Enter the string \n";
 gets(str);
 j=strlen(str)-1;
 while(i<j)
