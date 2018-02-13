@@ -12,6 +12,7 @@ int main()
    {
        scanf("%d",&a[i]);
    }
+   printf("unique elements are  ");
    for(i=0;i<n;i++)
    {
        for(j=0;j<n;j++)
