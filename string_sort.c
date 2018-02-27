@@ -13,7 +13,7 @@ printf("enter the no of string");
    {
      scanf("%s",&str[i]);
     }
-   printf("%s",str[i]);
+   
     for(i=0;i<n-1;i++)
     {
         for(j=i;j<n;j++)
