@@ -10,7 +10,7 @@ int main()
     printf("enter the no of elements do you want to insert ");
     scanf("%d",&a2);
     l=a1+a2;
-        printf("%d",l);
+   
     printf("enter the array elements");
     for(i=0;i<a1;i++)
     {
