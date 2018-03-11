@@ -26,7 +26,7 @@ int main()
            }
        }
    }
-   printf("no.of Islands  = %d",c);
+   printf("no.of Islands sorrounded by water = %d",c);
     
     return 0;
 }
